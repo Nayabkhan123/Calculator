@@ -2,8 +2,6 @@
 
 This is a fully functional and responsive calculator web app built using **HTML**, **CSS**, and **JavaScript**. It features essential calculator operations and includes a toggle for **Dark Mode**, making it both practical and stylish.
 
-![Calculator Preview](https://calculator-nayabkhan123.vercel.app/) 
-
 ---
 
 ## 🚀 Features
@@ -62,6 +60,7 @@ calculator-project/
 
 - Show calculation history
 - Add scientific functions
+- and many more...
 
 ---
 
@@ -71,13 +70,7 @@ Feel free to fork the project and submit pull requests. Contributions are welcom
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## ✨ Author
 
-**[Your Name]**  
+**[Nayab Khan]**  
 GitHub: [@Nayabkhan123](https://github.com/Nayabkhan123/)
