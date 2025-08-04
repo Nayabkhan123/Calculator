@@ -175,6 +175,10 @@ input:focus {
 @media screen and (max-width: 768px) {
   .button{
       width: 100%;
+      box-shadow: none;
+  }
+  .button:hover {
+    background-color: none;
   }
   .darkmode-btn {
     position: relative;
