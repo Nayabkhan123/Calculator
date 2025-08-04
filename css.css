@@ -91,7 +91,7 @@ input:focus {
   justify-content: center;
   align-items: center;
   text-align: center;
-  width: 70%;
+  width: 80% ;
   place-self: center;
   height: 5rem;
   cursor: pointer;
@@ -173,6 +173,9 @@ input:focus {
 }
 
 @media screen and (max-width: 768px) {
+  .button{
+      width: 100%;
+  }
   .darkmode-btn {
     position: relative;
     left: 5;
